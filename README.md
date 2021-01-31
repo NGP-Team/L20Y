@@ -9,4 +9,4 @@ The First should be to install the JavaFX libraries to open the project without 
 The second point should install the events folder locally to avoid the missing events information folders.
 finally, if there are any comments please let me know any help u..
 
-#[own project](https://github.com/shaimaaAlArabia)
+#[The owner of the project ](https://github.com/shaimaaAlArabia)
